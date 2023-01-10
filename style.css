@@ -9,3 +9,19 @@ h1{
 p{
     color: red
 }
+
+#ban{
+    color: blue;
+}
+
+#menu{
+    color: aquamarine;
+}
+
+#content{
+    color: black;
+}
+
+#footer{
+    color: brown;
+}
